@@ -31,8 +31,7 @@ body {
 /* home section */
 .home-section {
     text-align: center;
-    margin-top: 21.8%;
-    margin-bottom: 21%;
+    padding: 300px;
     transform: translate(-50, -50);
     color: white;
 }
