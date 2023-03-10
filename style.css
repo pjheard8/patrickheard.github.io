@@ -37,3 +37,18 @@ body {
     transform: translate(-50%, -50%);
     color: white;
 }
+
+.home-section {
+    text-align: center;
+    margin-top: 21.8%;
+    margin-bottom: 21%;
+    color: white;
+}
+
+/* about section */
+.about-section {
+    text-align: center;
+    padding: 50px;
+    background-color: white;
+    color: black;
+}
